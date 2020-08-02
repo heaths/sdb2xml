@@ -1,0 +1,22 @@
+<!--
+Copyright 2020 Heath Stewart.
+Licensed under the MIT License. See LICENSE.txt in the project root for license information.
+-->
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Version>0.1.0</Version>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Authors>Heath Stewart</Authors>
+    <Copyright>Copyright 2020 Heath Stewart</Copyright>
+    <AssemblyTitle>Shim Database Converter</AssemblyTitle>
+    <Description>Convert application compatibility databases to XML to view shims.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>sdb;appcompat;</PackageTags>
+    <RepositoryUrl>https://github.com/heaths/sdb2xml</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sdb2xml": {
+      "commandName": "Project",
+      "commandLineArgs": "%WINDIR%\\apppatch\\msimain.sdb"
+    }
+  }
+}
