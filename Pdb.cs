@@ -1,4 +1,4 @@
-// Copyright 2020 Heath Stewart.
+// Copyright 2025 Heath Stewart.
 // Licensed under the MIT License. See LICENSE.txt in the project root for license information.
 
 using Microsoft.Win32.SafeHandles;
